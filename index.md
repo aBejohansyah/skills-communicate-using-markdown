@@ -4,5 +4,8 @@ My first impression, the GitHub is little bit complicated for me as a beginner a
 ``` python
 print('Hello world')
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 I add the image
